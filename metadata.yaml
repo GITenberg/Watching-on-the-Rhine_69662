@@ -1,0 +1,27 @@
+_repo: Watching-on-the-Rhine_69662
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Markham, Violet R.
+    gutenberg_agent_id: '55363'
+    url: http://www.gutenberg.org/2009/agents/55363
+description: ''
+gutenberg_issued: '2022-12-30'
+identifiers:
+  gutenberg: '69662'
+language: en
+pgterms:marc904: https://archive.org/details/watchingonrhine00mark/page/n7/mode/2up
+pgterms:marc905: 20201124155855markham
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: George H. Doran Company,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Watching on the Rhine
+url: http://www.gutenberg.org/ebooks/69662
