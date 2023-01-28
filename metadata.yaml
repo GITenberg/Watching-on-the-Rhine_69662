@@ -1,11 +1,16 @@
 _repo: Watching-on-the-Rhine_69662
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69662-h/images/cover.jpg
 creator:
   author:
     agent_name: Markham, Violet R.
     gutenberg_agent_id: '55363'
     url: http://www.gutenberg.org/2009/agents/55363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69662#Watching-on-the-Rhine
 gutenberg_issued: '2022-12-30'
 identifiers:
   gutenberg: '69662'
